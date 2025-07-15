@@ -336,5 +336,3 @@ If you would like to contribute additional templates or suggest new categories, 
 
 ---
 
-### **Sponsors**
-- [mahezsh](https://github.com/mahezsh)
